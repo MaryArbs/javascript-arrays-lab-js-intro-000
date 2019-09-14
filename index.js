@@ -21,5 +21,5 @@ return ["Arnold", ...kittens];
 }
 function removeLastKitten (name){
   return kittens.slice(-1);
-  kittens=kittens.slice(-1);
 }
+var kittens2= kittens.slice(-1);
